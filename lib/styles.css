@@ -46,6 +46,11 @@ hr{
      border: 1px solid var(--primary-color)
  }
 
+ .link-active{
+     font-weight: bold;
+     
+ }
+
  /** lists **/
 
  .list-non-bullet{
