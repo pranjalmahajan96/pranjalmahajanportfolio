@@ -20,6 +20,11 @@ hr{
     padding-bottom: 1rem;
 }
 
+.spaces1{
+    padding-top: 0.5rem;
+}
+
+
 /** container **/
 .container{
     padding: 0rem 1rem;
