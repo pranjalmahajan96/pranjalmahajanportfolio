@@ -36,6 +36,11 @@ hr{
     margin: auto;
 }
 
+.container .ul{
+    padding-inline-start: 0px;
+    }
+    
+    
  /** links **/
 
  .link{
