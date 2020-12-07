@@ -36,11 +36,8 @@ hr{
     margin: auto;
 }
 
-.container .ul{
-    padding-inline-start: 0px;
-    }
-    
-    
+   
+
  /** links **/
 
  .link{
@@ -77,7 +74,11 @@ hr{
      display: inline; 
      padding: 0rem 0.5 rem;
  }
-
+ 
+ .ul{
+    padding-inline-start: 0px;
+    }
+    
  /** navigation **/
 
  .navigation{
