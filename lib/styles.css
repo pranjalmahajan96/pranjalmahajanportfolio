@@ -28,6 +28,7 @@ hr{
 /** container **/
 .container{
     padding: 0rem 1rem;
+    padding-inline-start: 0px;
 }
 
 .container-center{
