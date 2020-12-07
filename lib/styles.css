@@ -68,6 +68,7 @@ hr{
 
  .list-non-bullet{
      list-style: none;
+     padding-inline-start: 0px ;
  }
 
  .list-item-inline{
@@ -75,10 +76,7 @@ hr{
      padding: 0rem 0.5 rem;
  }
  
- .ul{
-    padding-inline-start: 0px;
-    }
-    
+   
  /** navigation **/
 
  .navigation{
